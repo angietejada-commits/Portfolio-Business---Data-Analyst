@@ -15,3 +15,8 @@ Dashboard interactivo para el análisis de ventas, productos, rentabilidad y com
 Proyecto final desarrollado para la certificación en Business Intelligence con Power BI, incluyendo análisis de ventas, mapas estratégicos, proyecciones y diferentes visualizaciones.
 
 👉 [Ver proyecto](https://github.com/angietejada-commits/Business-Intelligence-Power-Bi)
+
+### Proyecto 3 — ETL con Python, pandas y Numpy 
+Proceso de limpieza, transformación y análisis de datos de e-commerce utilizando Python, pandas, Numpy y Power Bi. 
+
+👉 [Ver proyecto](https://github.com/angietejada-commits/ETL-Python-Pandas-Numpy-Dhashboard-Power-Bi)
